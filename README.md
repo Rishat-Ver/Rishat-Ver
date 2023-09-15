@@ -1,5 +1,4 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/Qt1jk5Q49C3h5CrlBe/giphy.gif" width="40"/>
   Hello friends! 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
@@ -44,5 +43,6 @@
 ---
 
 <h5 align="right ">
+  <img src="https://media.giphy.com/media/Qt1jk5Q49C3h5CrlBe/giphy.gif" width="40"/>
   <img src="https://komarev.com/ghpvc/?username=Rishat-Ver-github-username&style=flat-square&color=blue" alt=""/>
 </h5>
