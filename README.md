@@ -1,6 +1,3 @@
-<h5 align="right ">
-  <img src="https://komarev.com/ghpvc/?username=Rishat-Ver-github-username&style=flat-square&color=blue" alt=""/>
-</h5>
 <h1 align="center">
   <img src="https://media.giphy.com/media/Qt1jk5Q49C3h5CrlBe/giphy.gif" width="70"/>
   Hello friends! 
@@ -43,3 +40,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx"  alt="Nginx" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="Pytest"  alt="Pytest" width="40" height="40"/>&nbsp;
+
+---
+
+<h5 align="right ">
+  <img src="https://komarev.com/ghpvc/?username=Rishat-Ver-github-username&style=flat-square&color=blue" alt=""/>
+</h5>
