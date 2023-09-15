@@ -7,10 +7,10 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://mail.yandex.ru/?uid=1059214722#inbox">
-    <img src="https://img.shields.io/badge/Yndex-orange?logo=yandex&logoColor=white&style=for-the-badge" alt="Yandex Badge"/>
+    <img src="https://img.shields.io/badge/YndexMail-orange?logo=yandex&logoColor=white&style=for-the-badge" alt="Yandex Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://vk.com/id356120934">
+    <img src="https://img.shields.io/badge/VKONTAKTE-blue?logo=VK&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
   </a>
 </div>
 
