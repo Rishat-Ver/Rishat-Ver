@@ -44,10 +44,10 @@
 
 ### :computer: My project :
 
-| Name       | description                                                                          | 
-|:------------------------------|-------------------------------------------------------------------|
-|FoodGram               | Online service , for lovers of delicious food . Ability to share recipes  |
-|YaTube                 | Social network for publishing personal diaries ю                          |
+| Name                  | description                                                               | link                                                            |
+|:----------------------|---------------------------------------------------------------------------|-----------------------------------------------------------------|
+|FoodGram               | Online service , for lovers of delicious food . Ability to share recipes  |[FoodGram](https://github.com/Rishat-Ver/foodgram-project-react.git") |
+|YaTube                 | Social network for publishing personal diaries ю                          |                                                                 |
 |YamdbAPI               | The YaMDb project collects user reviews of works.                         |
 |Store                  | Online store.                                                             |
 |Booking                | Hotel Booking Service.                                                    |
@@ -55,6 +55,8 @@
 |RishikPrognozBot       | The bot sends the detailed weather of the entered city to the telegram.   |
 |RishikWikiBot          | Sends information about the entered word .                                |
 |Fitness tracker        | A program for tracking basic information when doing sports .              |
+
+[![Тут текст]](https://github.com/Rishat-Ver/foodgram-project-react.git")
 
 ### :bar_chart: My stats :
 
