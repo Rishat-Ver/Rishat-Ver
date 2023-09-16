@@ -54,7 +54,9 @@
 |Homework-bot           | Sends notifications about the status of homework.                         |
 |PrognozPogoduRishikbot | The bot sends the detailed weather of the entered city to the telegram.   |
 |RishikWikibot          | Sends information about the entered word .                                |
-|Fitness tracker modul  | A program for tracking basic information when doing sports .              |
+|Fitness tracker        | A program for tracking basic information when doing sports .              |
+
+### :bar_chart: My stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rishat-Ver)](https://git.io/streak-stats)
 
