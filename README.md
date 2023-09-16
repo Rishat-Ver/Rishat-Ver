@@ -11,7 +11,7 @@
 - **my work**: *manager for working with marketplaces, freelance backend-developer*
 - **my vacation**: *cycling,  computer games,  good movies*
 
-#### :telephone_receiver: My contacts :
+### :telephone_receiver: My contacts :
 <div id="badges">
   <a href="https://t.me/Rishik1991">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
@@ -24,7 +24,7 @@
   </a>
 </div>
 
-#### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
@@ -39,6 +39,22 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx"  alt="Nginx" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="Pytest"  alt="Pytest" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg?ysclid=lmmcvlm9xz511751151" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
+</div>
+
+### :computer: My project :
+
+| Name       | description                                                                          | 
+|:------------------------------|-------------------------------------------------------------------|
+|FoodGram               | Online service , for lovers of delicious food . Ability to share recipes  |
+|YaTube                 | Social network for publishing personal diaries ю                          |
+|YamdbAPI               | The YaMDb project collects user reviews of works.                         |
+|Store                  | Online store.                                                             |
+|Booking                | Hotel Booking Service.                                                    |
+|Homework-bot           | Sends notifications about the status of homework.                         |
+|PrognozPogoduRishikbot | The bot sends the detailed weather of the entered city to the telegram.   |
+|RishikWikibot          | Sends information about the entered word .                                |
+|Fitness tracker modul  | A program for tracking basic information when doing sports .              |
 
 ---
 
