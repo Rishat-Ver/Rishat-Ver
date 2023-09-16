@@ -52,8 +52,8 @@
 |Store                  | Online store.                                                             |
 |Booking                | Hotel Booking Service.                                                    |
 |Homework-bot           | Sends notifications about the status of homework.                         |
-|PrognozPogoduRishikbot | The bot sends the detailed weather of the entered city to the telegram.   |
-|RishikWikibot          | Sends information about the entered word .                                |
+|RishikPrognozBot       | The bot sends the detailed weather of the entered city to the telegram.   |
+|RishikWikiBot          | Sends information about the entered word .                                |
 |Fitness tracker        | A program for tracking basic information when doing sports .              |
 
 ### :bar_chart: My stats :
