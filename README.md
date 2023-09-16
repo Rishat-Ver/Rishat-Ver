@@ -44,19 +44,17 @@
 
 ### :computer: My project :
 
-| Name                  | description                                                               | link                                                            |
-|:----------------------|---------------------------------------------------------------------------|-----------------------------------------------------------------|
-|FoodGram               | Online service , for lovers of delicious food . Ability to share recipes  |[FoodGram](https://github.com/Rishat-Ver/foodgram-project-react.git) |
-|YaTube                 | Social network for publishing personal diaries ю                          |                                                                 |
-|YamdbAPI               | The YaMDb project collects user reviews of works.                         |
-|Store                  | Online store.                                                             |
-|Booking                | Hotel Booking Service.                                                    |
-|Homework-bot           | Sends notifications about the status of homework.                         |
-|RishikPrognozBot       | The bot sends the detailed weather of the entered city to the telegram.   |
-|RishikWikiBot          | Sends information about the entered word .                                |
-|Fitness tracker        | A program for tracking basic information when doing sports .              |
-
-[![Тут текст]](https://github.com/Rishat-Ver/foodgram-project-react.git")
+| Name                                                                 | description                                                               |
+|:---------------------------------------------------------------------|---------------------------------------------------------------------------|
+|[FoodGram](https://github.com/Rishat-Ver/foodgram-project-react.git)  | Online service , for lovers of delicious food . Ability to share recipes  |
+|[YaTube](https://github.com/Rishat-Ver/api_final_yatube.git)          | Social network for publishing personal diaries ю                          |
+|[YamdbAPI](https://github.com/Rishat-Ver/yamdb_final.git)             | The YaMDb project collects user reviews of works.                         |
+|Store                                                                 | Online store.                                                             |
+|Booking                                                               | Hotel Booking Service.                                                    |
+[Homework-bot](https://github.com/Rishat-Ver/homework_bot.git)         | Sends notifications about the status of homework.                         |
+|[RishikPrognozBot](https://github.com/Rishat-Ver/RishikPrognozBot.git)| The bot sends the detailed weather of the entered city to the telegram.   |
+|[RishikWikiBot](https://github.com/Rishat-Ver/RishikWikiBot.git)      | Sends information about the entered word .                                |
+|[Fitness tracker](https://github.com/Rishat-Ver/hw_python_oop.git)    | A program for tracking basic information when doing sports .              |
 
 ### :bar_chart: My stats :
 
