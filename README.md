@@ -56,6 +56,18 @@
 |RishikWikibot          | Sends information about the entered word .                                |
 |Fitness tracker modul  | A program for tracking basic information when doing sports .              |
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rishat-Ver)](https://git.io/streak-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishat-Ver&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rishat-Ver&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rishat-Ver&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rishat-Ver&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rishat-Ver&theme=solarized_dark)
+
+
+
 ---
 
 <div id="header" align="center">
