@@ -46,7 +46,7 @@
 
 | Name                  | description                                                               | link                                                            |
 |:----------------------|---------------------------------------------------------------------------|-----------------------------------------------------------------|
-|FoodGram               | Online service , for lovers of delicious food . Ability to share recipes  |[FoodGram](https://github.com/Rishat-Ver/foodgram-project-react.git") |
+|FoodGram               | Online service , for lovers of delicious food . Ability to share recipes  |[FoodGram](https://github.com/Rishat-Ver/foodgram-project-react.git) |
 |YaTube                 | Social network for publishing personal diaries ю                          |                                                                 |
 |YamdbAPI               | The YaMDb project collects user reviews of works.                         |
 |Store                  | Online store.                                                             |
