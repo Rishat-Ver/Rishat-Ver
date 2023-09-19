@@ -50,13 +50,12 @@
 |[YaTube](https://github.com/Rishat-Ver/api_final_yatube.git)          | Social network for publishing personal diaries ю                          |
 |[YamdbAPI](https://github.com/Rishat-Ver/yamdb_final.git)             | The YaMDb project collects user reviews of works.                         |
 |[Store](https://github.com/Rishat-Ver/Store.git)                      | Online store.                                                             |
-|Booking                                                               | Hotel Booking Service.                                                    |
+|[Booking](https://github.com/Rishat-Ver/Booking.git)                  | Hotel Booking Service.                                                    |
 [Homework-bot](https://github.com/Rishat-Ver/homework_bot.git)         | Sends notifications about the status of homework.                         |
 |[RishikPrognozBot](https://github.com/Rishat-Ver/RishikPrognozBot.git)| The bot sends the detailed weather of the entered city to the telegram.   |
 |[RishikWikiBot](https://github.com/Rishat-Ver/RishikWikiBot.git)      | Sends information about the entered word .                                |
 |[Fitness tracker](https://github.com/Rishat-Ver/hw_python_oop.git)    | A program for tracking basic information when doing sports .              |
 
-https://github.com/Rishat-Ver/Store.git
 
 ### :bar_chart: My stats :
 
